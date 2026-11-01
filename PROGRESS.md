@@ -4,7 +4,7 @@ Started: October 2026. Tick boxes as each item ships, and link the evidence.
 
 ## AI engineering
 
-- [ ] Phase 0 · Setup
+- [x] Phase 0 · Setup (2026-11-01): uv, Python 3.12, Ollama, first local call in llm-assistant
 - [ ] Phase 1 · LLM APIs: CLI assistant shipped
 - [ ] Phase 2 · FastAPI: assistant served as an API
 - [ ] Phase 3 · RAG: Project 1 v1
