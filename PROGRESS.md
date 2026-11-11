@@ -17,7 +17,7 @@ Started: October 2026. Tick boxes as each item ships, and link the evidence.
 
 ## Certificates (optional, free)
 
-- [ ] Anthropic Academy: Building with the Claude API
+- [x] Anthropic Academy: Building with the Claude API (2026-11)
 - [ ] Anthropic Academy: Introduction to Model Context Protocol
 - [ ] Hugging Face Agents course
 - [ ] Hugging Face MCP course
